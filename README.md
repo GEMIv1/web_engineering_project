@@ -25,6 +25,7 @@ Strat backend server at PORT=5121
 
 ```bash
 dotnet run
+```
 
 # Frontend URL (for CORS)
 FRONTEND_URL=http://127.0.0.1:5502
