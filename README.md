@@ -201,6 +201,11 @@ Content-Type: application/json
 
 ---
 
+## Presentation
+
+[View Presentation](https://www.canva.com/design/DAG2cwb_898/a9U1MRZkvtUrWuZmbuZuXQ)
+
+
 ## 🙏 Acknowledgments
 
 - [Argon2](https://github.com/P-H-C/phc-winner-argon2) - Password Hashing Competition winner
