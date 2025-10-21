@@ -86,10 +86,9 @@ DB_PORT=1433
 DB_TRUSTED_CONNECTION=true
 DB_NAME=Identity
 
-# JWT Configuration (add these if not present)
+# JWT Configuration
 JWT_SECRET=your-secret-key-here-change-in-production
 JWT_EXPIRES_IN=15m
-REFRESH_TOKEN_EXPIRES_IN=7d
 ```
 
 > ⚠️ **Security Note**: Never commit your `.env` file or expose your `JWT_SECRET` in production!
