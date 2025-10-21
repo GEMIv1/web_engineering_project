@@ -203,7 +203,7 @@ Content-Type: application/json
 
 ## Presentation
 
-[View Presentation](https://www.canva.com/design/DAG2cwb_898/a9U1MRZkvtUrWuZmbuZuXQ)
+[View Presentation](https://www.canva.com/design/DAG2cwb_898/a9U1MRZkvtUrWuZmbuZuXQ/edit)
 
 
 ## 🙏 Acknowledgments
