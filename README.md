@@ -168,17 +168,17 @@ web_engineering_project/
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| POST | `/api/auth/register` | Register a new user |
-| POST | `/api/auth/login` | Login and receive tokens |
-| POST | `/api/auth/refresh` | Get new access token using refresh token |
-| POST | `/api/auth/logout` | Invalidate refresh token |
-| GET | `/api/user/profile` | Get user profile (requires auth) |
+| POST | `/api/Account/register` | Register a new user |
+| POST | `/api/Account/login` | Login and receive tokens |
+| POST | `/api/Account/refresh` | Get new access token using refresh token |
+| POST | `/api/Account/logout` | Invalidate refresh token |
+| GET | `/api/Account` | Get user profile (requires auth) |
 
 ### Example Request
 
 **Register:**
 ```json
-POST /api/auth/register
+POST /api/Account/register
 Content-Type: application/json
 
 {
@@ -190,7 +190,7 @@ Content-Type: application/json
 
 **Login:**
 ```json
-POST /api/auth/login
+POST /api/Account/login
 Content-Type: application/json
 
 {
