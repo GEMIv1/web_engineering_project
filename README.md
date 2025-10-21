@@ -206,4 +206,3 @@ Content-Type: application/json
 
 - [Argon2](https://github.com/P-H-C/phc-winner-argon2) - Password Hashing Competition winner
 - [JWT.io](https://jwt.io/) - JWT implementation resources
-- [OWASP](https://owasp.org/) - Security best practices
