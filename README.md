@@ -2,10 +2,6 @@
 
 Hashing (Argon2) and JWT & Refresh Token with Rotation
 
-## 🧠 About
-This project demonstrates secure password hashing (Argon2) and an implementation of JWT + Refresh Token with rotation.  
-It includes both a **frontend** and a **backend** communicating securely with JWT authentication.
-
 ---
 
 ## 📑 Table of Contents
@@ -17,8 +13,15 @@ It includes both a **frontend** and a **backend** communicating securely with JW
 
 ---
 
-## Run Locally
+## 🧠 About
+This project demonstrates secure password hashing (Argon2) and an implementation of JWT + Refresh Token with rotation.  
+It includes both a **frontend** and a **backend** communicating securely with JWT authentication.
 
+---
+
+
+
+## Run Locally
 
 # Backend server
 Strat backend server at PORT=5121
