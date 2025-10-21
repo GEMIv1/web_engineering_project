@@ -19,7 +19,6 @@ The application consists of a .NET backend API and a frontend client, demonstrat
 - 🔄 **Refresh Token Rotation** - Enhanced security against token theft
 - 🛡️ **CORS Protection** - Configured for specific frontend origins
 - 💾 **SQL Server Integration** - Persistent data storage
-- 🔒 **Secure Token Management** - Automatic token refresh and rotation
 
 ---
 
